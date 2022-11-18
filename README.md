@@ -18,7 +18,7 @@
 
 - The programme will identify the disease, give some background information, and suggest potential remedies if the user uploads a photo of a diseased plant leaf to the application's plant disease prediction tool.
 
-## How to use 💻
+## How to use 
 - Enter the corresponding nutrient levels for your soil, state, and city in the crop recommendation system. Keep in mind that the values for nitrogen, phosphorus, and potassium (N-P-K) should be entered as a ratio.
 
 - Fertilizer recommendation system Enter the crop you want to plant together with the amount of nutrients in your soil. The algorithm will indicate which nutrient the soil is deficient in or has a surplus of. It will therefore offer advice on where to buy fertiliser.
